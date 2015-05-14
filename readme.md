@@ -3,3 +3,4 @@
 ### Vialab Members
  - Kalev
  - Riley
+ - Taylor
