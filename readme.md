@@ -3,3 +3,5 @@
 ### Vialab Members
  - Kalev
  - Ammar
+ - Riley
+ - Taylor
